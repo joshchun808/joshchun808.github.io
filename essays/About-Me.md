@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Why MIS
+title: About Me
 date: 2022-01-10
 labels:
   - About Me
