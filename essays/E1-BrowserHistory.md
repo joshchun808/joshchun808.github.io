@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: BrowserHistory WOD followup
+title: BrowserHistory WOD
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-027
 labels:
