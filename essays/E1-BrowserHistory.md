@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: BrowserHistory WOD
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-027
+date: 2022-01-27
 labels:
   - WOD
   - BrowserHistory
