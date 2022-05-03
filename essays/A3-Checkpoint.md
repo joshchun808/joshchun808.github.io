@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Progress in Programming Essay
+title: Assignment 3 Checkpoint
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-03
 labels:
